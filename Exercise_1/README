@@ -1,0 +1,13 @@
+This project demonstrates how to process unstructured text data from a dataset of Magic: The Gathering cards and turn it into a structured format suitable for analysis. Each card contains information such as its name, mana cost, type, and effect.
+
+The exercise covers:
+
+Loading and reading text files in Python
+
+Splitting text into individual records
+
+Extracting structured information using regular expressions
+
+Creating a pandas DataFrame for analysis
+
+Counting and analyzing specific fields (e.g., card types)
